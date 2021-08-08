@@ -62,10 +62,12 @@ License:
  Version Beta 2.4.2 (Latest Version)
  - ❗ Added ❗
   
-   New commandline mechanic
+   Added commandline mechanics
   
-   New customizable Pulse setting
+   Added customizable Pulse setting
     (The Forbidden Pulse Setting 'DEATH_STAR')
+  
+   Added Data Bomb💣. 
    
  - ✅ Improvements ✅
   
