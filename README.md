@@ -40,25 +40,31 @@ License:
  - ❗ Added ❗
   
    New commandline mechanic
+  
    New customizable Pulse setting
     (The Forbidden Pulse Setting 'DEATH_STAR')
    
  - ✅ Improvements ✅
   
    Time Clock now can switch to Minutes>Hours>Days>Weeks>Months>Years>Dacades
+  
    Send Clock was now improved with 2 more UI's 'MB & GB'
+  
    The Time, Send and Shots Clocks have now been moved to the left side.
   
  - 🛠 Fixed 🛠
   
    Bullet Script Not Working, and inputed a wrong set of IP.
+  
    The "Hide UI.vbs" was not starting the Bullet script as hidden.
   
    Launch UI was in a Loop and would randomly get to the Lanch and
     Loop Section, and would add -1 as a text instead if %Number%-1
   
    Launch Section & Loop Section Failed to Even start an attack etc.
+  
     = Immedietly Finishing without it not even doing damage.
+  
     = Broken Time/Shots/Sends and wasen't calculating.
      
    - 〽 Downdides 〽
