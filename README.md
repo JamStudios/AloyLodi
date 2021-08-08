@@ -34,6 +34,19 @@ License:
 :::::                With the <subject> as "Aloy Lodi Bug Report [Bug]"
 :::::                Any Question <subject> as "Aloy Lodi Question [Question]"
   
+  -Compatibility---------------
+  [NOT TESTED] Windows 95
+  [NOT TESTED] Windows 98
+  [NOT TESTED] Windows LongHorn
+  [NOT TESTED] Windows XP
+  [NOT TESTED] Windows Vista
+  [NOT TESTED] Windows 7
+  [NOT TESTED] Windows 8
+  [TESTED]     Windows 10
+  [NOT TESTED] Windows 11
+  -----------------------------
+  If You Want to Give us a feedback on these OS's if they are compatible or not goto 
+  
  :::::::::::::::::::::: UPDATES :::::::::::::::::::::: 
   
  Version Beta 2.4.2 (Latest Version)
