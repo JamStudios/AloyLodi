@@ -55,7 +55,7 @@ License:
   [NOT TESTED] Windows 11
   
   -----------------------------
-  If You Want to Give us a feedback on these OS's if they are compatible or not goto 
+  If You Want to Give us a feedback on these OS's if they are compatible or not goto Issues Tab in github
   
  :::::::::::::::::::::: UPDATES :::::::::::::::::::::: 
   
