@@ -10,7 +10,7 @@ Launch, if launched it turnes into a Killing Machine,
 Not stopping until its Target is dead.
 
   Aloy Lodi also grew inpiration on a filipino meme
-which makes fun of bikes that are made of Aloy / Carbon
+which makes fun of bikes that are made of Aloy / Carbon,
 Aloy is sometimes are used for bikes, and the Word 'Aloy' also represents 
 a feature in the program in which its customization of its 
 strength, and it combines all of the metals (Ping Of Death Methods) 
