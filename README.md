@@ -51,7 +51,7 @@ License:
    Bullet Script Not Working, and inputed a wrong set of IP.
    The "Hide UI.vbs" was not starting the Bullet script as hidden.
   
-  Launch UI was in a Loop and would randomly get to the Lanch and
+   Launch UI was in a Loop and would randomly get to the Lanch and
     Loop Section, and would add -1 as a text instead if %Number%-1
   
    Launch Section & Loop Section Failed to Even start an attack etc.
