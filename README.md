@@ -35,6 +35,7 @@ License:
 :::::                Any Question <subject> as "Aloy Lodi Question [Question]"
   
  :::::::::::::::::::::: UPDATES :::::::::::::::::::::: 
+  
  Version Beta 2.4.2 (Latest Version)
  - ❗ Added ❗
    New commandline mechanic
