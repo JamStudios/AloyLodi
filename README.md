@@ -30,5 +30,37 @@ License:
 :::::   Programming Language: Batch/Cmd (Command Line Proccessor)
 :::::   Published in: August, 6, 2021
 :::::   Report Bugs: JamStudios.corp@outlook.com
+:::::                Or report it in the github Tab in: https://github.com/JamStudiosCorporation/aloy_lodi/issues
 :::::                With the <subject> as "Aloy Lodi Bug Report [Bug]"
 :::::                Any Question <subject> as "Aloy Lodi Question [Question]"
+  
+ :::::::::::::::::::::: UPDATES :::::::::::::::::::::: 
+ Version Beta 2.4.2 (Latest Version)
+ - ❗ Added ❗
+   New commandline mechanic
+   New customizable Pulse setting
+    (The Forbidden Pulse Setting 'DEATH_STAR')
+   
+ - ✅ Improvements ✅
+   Time Clock now can switch to Minutes>Hours>Days>Weeks>Months>Years>Dacades
+   Send Clock was now improved with 2 more UI's 'MB & GB'
+   The Time, Send and Shots Clocks have now been moved to the left side.
+  
+ - 🛠 Fixed 🛠
+   Bullet Script Not Working, and inputed a wrong set of IP.
+   The "Hide UI.vbs" was not starting the Bullet script as hidden.
+  
+  Launch UI was in a Loop and would randomly get to the Lanch and
+    Loop Section, and would add -1 as a text instead if %Number%-1
+  
+   Launch Section & Loop Section Failed to Even start an attack etc.
+    = Immedietly Finishing without it not even doing damage.
+    = Broken Time/Shots/Sends and wasen't calculating.
+     
+   - 〽 Downdides 〽
+     Once The Program attacks it can not be cancelled/Disabled
+      The ONLY WAY is to Restart/Shutdown the Machine.
+  
+     The Pulse setting Takes A LOT OF CPU POWER, and can slow
+      Down The Host / Server until it crashes.
+     
