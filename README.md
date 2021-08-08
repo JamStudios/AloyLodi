@@ -38,16 +38,19 @@ License:
   
  Version Beta 2.4.2 (Latest Version)
  - ❗ Added ❗
+  
    New commandline mechanic
    New customizable Pulse setting
     (The Forbidden Pulse Setting 'DEATH_STAR')
    
  - ✅ Improvements ✅
+  
    Time Clock now can switch to Minutes>Hours>Days>Weeks>Months>Years>Dacades
    Send Clock was now improved with 2 more UI's 'MB & GB'
    The Time, Send and Shots Clocks have now been moved to the left side.
   
  - 🛠 Fixed 🛠
+  
    Bullet Script Not Working, and inputed a wrong set of IP.
    The "Hide UI.vbs" was not starting the Bullet script as hidden.
   
@@ -59,6 +62,7 @@ License:
     = Broken Time/Shots/Sends and wasen't calculating.
      
    - 〽 Downdides 〽
+  
      Once The Program attacks it can not be cancelled/Disabled
       The ONLY WAY is to Restart/Shutdown the Machine.
   
