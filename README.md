@@ -1,4 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/88536910/133879751-ca208052-1ba7-4bc6-b890-039ab5414439.png)
+![logo_free-file (1) (2)](https://user-images.githubusercontent.com/94430800/142332249-6d841356-16c8-4e30-a6a9-403a25b506cc.png)
 
 Aloy Lodi 'Large Output Data Impulser' is a DDOS software used to Take down Servers / hosts, 
 
